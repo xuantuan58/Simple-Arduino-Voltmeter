@@ -7,3 +7,4 @@ Create a simple Voltmeter using Arduino and read voltage on Serial Monitor windo
 
 ## see Image bellow for input and output pins
 
+![Diagram](https://github.com/xuantuan58/Simple-Arduino-Voltmeter/blob/master/diagram.png "Diagram")
